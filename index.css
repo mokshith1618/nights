@@ -1,0 +1,169 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container-1 {
+    background-image: url("https://images.metadata.sky.com/pd-image/1bf28e13-3607-4440-87c0-108e61feac77/16-9");
+    height: 100vh;
+    background-size: cover;
+}
+
+.nights-card-1 {
+    text-align: center;
+    font-family: "Comic Sans MS";
+    background-color: rgba(211, 211, 211, 0.75);
+    border-radius: 8px;
+    padding: 42px;
+    height: 268px;
+    width: 280px;
+}
+
+.nights-heading-1 {
+    height: 54px;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.button-1 {
+    height: 40px;
+    width: 150px;
+    font-size: 22px;
+    color: black;
+    border-radius: 25px;
+    border-width: 0.5px;
+    padding: 1px;
+}
+
+.bg-container-2 {
+    background-image: url("https://p4.wallpaperbetter.com/wallpaper/164/558/567/earphone-equipment-technology-device-wallpaper-preview.jpg");
+    background-size: cover;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: "Comic Sans MS";
+}
+
+.n-head-card-2 {
+    text-align: center;
+    background-color: rgba(211, 211, 211, 0.85);
+    background-size: cover;
+    font-weight: 500;
+    margin-bottom: 2px;
+}
+
+.n-heading-2 {
+    font-size: 40px;
+}
+
+.n-card-2 {
+    background-color: rgba(211, 211, 211, 0.75);
+    width: 400px;
+    padding: 8px;
+    border-width: 1px;
+    border-color: rgba(211, 211, 211, 0.8);
+    border-style: solid;
+    border-radius: 10px;
+    margin: 3px;
+}
+
+.n-name-2 {
+    font-size: 25px;
+    font-weight: 400;
+}
+
+.n-image-2 {
+    height: 100px;
+    width: 100px;
+}
+
+.disc {
+    width: 400px;
+}
+
+.bg-image-3 {
+    background-image: url("https://www.rollingstone.com/wp-content/uploads/2019/01/beatles-live-1964.jpg");
+    height: 100vh;
+    background-size: cover;
+    text-align: center;
+}
+
+.nights-heading-3 {
+    font-family: "Comic Sans MS";
+    background-color: rgba(211, 211, 211, 0.85);
+    background-size: cover;
+    height: 65px;
+    font-size: 38px;
+    font-weight: 300;
+    padding: 9px;
+    margin: 0px;
+}
+
+.n-card-3 {
+    background-color: rgba(211, 211, 211, 0.75);
+    padding: 10px;
+    border-radius: 5px;
+    width: 95%;
+    font-family: "Comic Sans MS";
+}
+
+.n-content-3 {
+    font-family: "Comic Sans MS";
+    font-size: 20px;
+    margin-bottom: 0px;
+}
+
+.feedback {
+    background-color: rgba(211, 211, 211, 0.75);
+    padding: 1px;
+    padding-left: 10px;
+    border-radius: 5px;
+    width: 98%;
+    font-family: "Comic Sans MS";
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+.n-feed {
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.feed-button {
+    background-color: rgba(211, 211, 211, 0.75);
+    font-family: "Comic Sans MS";
+    text-align: left;
+    margin-top: 5px;
+    height: 40px;
+    padding: 2px;
+    padding-left: 8px;
+    padding-right: 8px;
+    font-size: 20px;
+}
+
+.back-button {
+    font-family: "Comic Sans MS";
+    text-align: left;
+    margin-top: 5px;
+    height: 40px;
+    padding: 2px;
+    padding-left: 8px;
+    padding-right: 8px;
+    font-size: 20px;
+}
+
+.user-input {
+    height: 40px;
+    width: 100%;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #cbd2d9;
+    border-radius: 10px;
+    padding-left: 12px;
+    background-color: rgba(211, 211, 211, 1);
+    ;
+}
+
+.icon {
+    height: 40px;
+    width: 40px;
+}
